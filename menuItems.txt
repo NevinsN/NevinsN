@@ -1,0 +1,4 @@
+1: Frequency of All Items
+2: Frequency of Specific Item
+3: Print Histogram
+4: Exit
